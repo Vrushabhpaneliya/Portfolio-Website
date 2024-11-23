@@ -1,0 +1,6 @@
+/* styles.css */
+body {
+    margin: 0; /* Removes default margins */
+    height: 100vh; /* Sets the body height to fill the viewport */
+    background-color: black; /* Makes the background black */
+}
